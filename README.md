@@ -1,5 +1,5 @@
 #Scrip1.sh: Script to automate the deployment of a web application to multiple servers. Also ensures the script handles rollback in case of failures during deployment.
-
+            Make sure to replace the APP_DIR="/path/to/your/web/app", BACKUP_DIR="/path/to/backup/directory", and SERVERS=("server1.example.com" "server2.example.com")
 #Script2.yaml: Kubernetes YAML configuration file to deploy a stateless microservice application with automatic scaling based on CPU utilization.
 
 #Script3.tf: To create an IaC script to provision a scalable web application infrastructure in AWS, including instances, load balancers, and databases using Terraform.
