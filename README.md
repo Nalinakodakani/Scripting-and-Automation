@@ -15,3 +15,5 @@
 #Script6.sh: Bash script to automate the process of compressing and archiving log files older than a certain number of days in a directory.
              Make sure to customize the LOG_DIR, DAYS_THRESHOLD, and ARCHIVE_DIR variables to match your specific directory paths and the number of days you want to consider 
              as the threshold for archiving.
+
+#Script7.sh: Bash script that generates a report summarizing the disk usage of directories and subdirectories, sorted by size, starting from a specified root directory.
